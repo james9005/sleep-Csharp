@@ -1,0 +1,6 @@
+c:\users\james.todd\documents\visual studio 2015\Projects\sleepmode\sleepmode\bin\Debug\sleepmode.exe.config
+c:\users\james.todd\documents\visual studio 2015\Projects\sleepmode\sleepmode\bin\Debug\sleepmode.exe
+c:\users\james.todd\documents\visual studio 2015\Projects\sleepmode\sleepmode\bin\Debug\sleepmode.pdb
+c:\users\james.todd\documents\visual studio 2015\Projects\sleepmode\sleepmode\obj\Debug\sleepmode.csprojResolveAssemblyReference.cache
+c:\users\james.todd\documents\visual studio 2015\Projects\sleepmode\sleepmode\obj\Debug\sleepmode.exe
+c:\users\james.todd\documents\visual studio 2015\Projects\sleepmode\sleepmode\obj\Debug\sleepmode.pdb
