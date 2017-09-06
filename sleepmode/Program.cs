@@ -10,14 +10,14 @@ using System.Threading;
 namespace sleepmode {
   class Program {
     static void Main(string[] args) {
-      Console.WriteLine("System Started Properly. ");
+      Console.WriteLine("[{0}] : System Started Properly. ", DateTime.Now.ToString());
       Console.WriteLine(".................................\n");
       if(args.Length ==1) {
         int time;
       
         Int32.TryParse(args[0], out time);
         if(time >0) {
-          Console.WriteLine("setting the time for {0} minutes. Press CTRL + C to cancel.",time);
+          Console.WriteLine("[{0}] : setting the time for {1} minutes. Press CTRL + C to cancel.",DateTime.Now.ToString(),time);
           Thread.Sleep(time * 60 * 1000);
           Console.WriteLine("[{0}] : Sending the computer to sleep! ", DateTime.Now.ToString());
           SetSuspendState(false, true, true);
